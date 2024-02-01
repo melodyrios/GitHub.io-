@@ -1,9 +1,16 @@
-title: Zeina Roz # your name (or website title) here
+title: Melody Rios # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  Bilingual and highly motivated professional with a keen interest in data analytics. 
+  Possesses excellent research and writing skills, complemented by strong technical 
+  and analytical expertise. Demonstrates a proven ability to establish positive 
+  relationships with clients and colleagues across all organizational levels. A 
+  dynamic self-starter with a focus on precision, offering robust organizational and 
+  multitasking skills. Whether working independently or collaboratively, consistently 
+  delivers insightful analysis and solutions. Known for being hard-working, reliable, 
+  and adept at quickly mastering new skills and software tools essential 
+  for effective data interpretation and decision-making in the analytics domain
+  <a href="https://www.linkedin.com/in/melodyrios/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
