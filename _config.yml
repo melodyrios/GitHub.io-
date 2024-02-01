@@ -13,8 +13,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <br> 
   <br>
-  <br> 
-  <br>
   <a href="https://www.linkedin.com/in/melodyrios/">View My LinkedIn Profile</a> 
   <br> 
   <br>
@@ -24,8 +22,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <br> 
   <br>
-  <br> 
-  <br>
+  
 
   
 theme: jekyll-theme-minimal
