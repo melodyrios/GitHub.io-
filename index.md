@@ -5,8 +5,8 @@
 ### My Projects
 
 #### [iFood Analytics](/bank)
-<img src=""/>
-Tolulope is the best
+<img src="images/iFoodAnalytics.png"/>
+This is a project analyzing a food delivery service with Excel.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
