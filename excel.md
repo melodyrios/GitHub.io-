@@ -39,12 +39,23 @@ To facilitate analysis, the following columns were introduced:
 
 #### Analysis
 The first correlation I wanted to see was the Income vs Total Spent.  
+
 <img src="images/Income vs Total Spent Scatter Plot copy.png"/>
 
 The chart reveals a distinct correlation, indicating that higher spending tends to be associated with higher income. This is where I found the customer's income level can account for 67% of the variance in spending. Of course, what’s a chart without some outliers? The most prominent outliers existed at both extremes of the spectrum: one individual with very low income exhibited high spending, while another with significantly higher income displayed minimal expenditure. 
 
-Next, I looked into the number of customers that joined each month, where the average per month was 183.  
+Next, I looked into the number of customers that joined each month, where the average per month was 183. 
+
 <img src="images/Total.png"/>
 
 There was a good number of customers joining each month and I wanted to see totals by age group. 
 
+<img src="images/AgeGroup.png"/>
+
+It was surprising to see that the youngest age group, 24-35, had the smallest customer count. While there's a common perception that younger individuals spend more on these food delivery apps, it's noteworthy that most customers fall within the 36-50 age group. 
+
+#### Conclusion
+
+The correlation between income and spending is indeed logical. We commonly associate takeout with a form of indulgence, and consequently, food delivery options often fall within that same category.  
+
+This dataset has certainly provided me with fresh insights into the purchasing patterns across different age groups. Numerous factors may contribute as to why specific age groups make more purchases than others. There might be opportunities for new marketing strategies to boost the number of purchases within specific age groups, particularly among those aged 24-35.  
