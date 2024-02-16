@@ -41,4 +41,8 @@ To facilitate analysis, the following columns were introduced:
 The first correlation I wanted to see was the Income vs Total Spent.  
 <img src="images/Income vs Total Spent Scatter Plot copy.png"/>
 
-  
+The chart reveals a distinct correlation, indicating that higher spending tends to be associated with higher income. This is where I found the customer's income level can account for 67% of the variance in spending. Of course, what’s a chart without some outliers? The most prominent outliers existed at both extremes of the spectrum: one individual with very low income exhibited high spending, while another with significantly higher income displayed minimal expenditure. 
+
+Next, I looked into the number of customers that joined each month, where the average per month was 183.  
+
+
