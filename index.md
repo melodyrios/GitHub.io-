@@ -4,7 +4,7 @@
 
 ### My Projects
 
-#### [iFood Analytics](/excel)
+#### [iFood Analytics](/excel.md)
 <img src="images/iFoodAnalytics.png"/>
 This is a project analyzing a food delivery service with Excel.
 
