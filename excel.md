@@ -39,6 +39,6 @@ To facilitate analysis, the following columns were introduced:
 
 #### Analysis
 The first correlation I wanted to see was the Income vs Total Spent.  
-
+<img src=""/>
 
   
