@@ -4,7 +4,7 @@
 
 ### My Projects
 
-#### [iFood Analytics](/excel.md)
+#### [iFood Analytics](/https://medium.com/@melody_r/analyzing-ifood-sales-throughout-the-year-ebb6b66470a0)
 <img src="images/iFoodAnalytics.png"/>
 This is a project analyzing a food delivery service with Excel.
 
